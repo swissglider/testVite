@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/swissglider/testVite/compare/v1.1.0...v1.2.0) (2022-04-16)
+
+
+### Features
+
+* privat-false ([f3bf4bc](https://github.com/swissglider/testVite/commit/f3bf4bcb6e04492b984ac2053e9ef108cc844919))
+
 # [1.1.0](https://github.com/swissglider/testVite/compare/v1.0.0...v1.1.0) (2022-04-16)
 
 
