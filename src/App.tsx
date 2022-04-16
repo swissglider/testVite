@@ -14,7 +14,7 @@ function App() {
           <button type="button" onClick={() => setCount((count) => count + 1)}>
             count is: {count}
           </button>
-          <div>Hallo Guido - 2</div>
+          <div>Hallo Guido - 3</div>
         </p>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
