@@ -1,7 +1,7 @@
 {
   "name": "testvite",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -47,12 +47,19 @@
   },
   "release": {
     "plugins": [
-     "@semantic-release/commit-analyzer",
-     "@semantic-release/release-notes-generator",
-     ["@semantic-release/npm",{"npmPublish":true}],
-     "@semantic-release/changelog",
-     "@semantic-release/git"
-   ],
-   "branches": ["main"]
- }
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": true
+        }
+      ],
+      "@semantic-release/changelog",
+      "@semantic-release/git"
+    ],
+    "branches": [
+      "main"
+    ]
+  }
 }
