@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/swissglider/testVite/compare/v1.2.0...v1.3.0) (2022-04-16)
+
+
+### Features
+
+* package name changed ([030f316](https://github.com/swissglider/testVite/commit/030f316e55a222d8b266965d1012d692de429a5e))
+
 # [1.2.0](https://github.com/swissglider/testVite/compare/v1.1.0...v1.2.0) (2022-04-16)
 
 
