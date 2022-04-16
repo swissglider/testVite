@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/swissglider/testVite/compare/v1.0.0...v1.1.0) (2022-04-16)
+
+
+### Features
+
+* add true ([ac10478](https://github.com/swissglider/testVite/commit/ac10478e85c2ee4e89849603c42842bafccb8b3e))
+
 # 1.0.0 (2022-04-16)
 
 
